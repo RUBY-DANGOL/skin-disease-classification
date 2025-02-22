@@ -50,13 +50,14 @@ You can access the dataset from Kaggle: [Various Skin Diseases Dataset](https://
 - **SVM Model**:
   accuracy - 63%
 - **Confusion Matrix**:
-  ![SVM Confusion matrix](SVM_Confusion_matrix.png)
-
+  
+  ![SVM Confusion Matrix](SVM_Confusion_Matrix.png)
   
 - **CNN Model**:
   validation accuracy: 82.76%
   validation loss: 0.6116
 - **Confusion Matrix**:
+  
   ![CNN Confusion matrix](CNN_Confusion_Matrix.png)
    
 
