@@ -11,8 +11,8 @@ Skin disease classification is crucial for early diagnosis and treatment. In thi
 
 
 ## 📂 skin-disease-classification
-├── deep_learning.ipynb          # CNN implementation for skin disease classification
-├── diseases_prediction.ipynb    # SVM implementation for skin disease classification
+- deep_learning.ipynb          (CNN implementation for skin disease classification)
+-  diseases_prediction.ipynb    (SVM implementation for skin disease classification)
                  
 
 
