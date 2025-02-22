@@ -55,6 +55,7 @@ You can access the dataset from Kaggle: [Various Skin Diseases Dataset](https://
   
 - **CNN Model**:
   validation accuracy: 82.76%
+  
   validation loss: 0.6116
 - **Confusion Matrix**:
   
